@@ -1,4 +1,9 @@
 #title {
-  width: 300px;
+  width: 20em;
   margin-top: 2em;
+}
+
+.output {
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
